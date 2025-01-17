@@ -1,0 +1,4 @@
+This is the basic or entry level project to understand AWS Cloud Architecture.
+A Foundational level AWS Cloud architecture is used to create a Static portfolio website using Html, CSS, JavaScript which contains the personal details.
+Hosted the website using AWS Cloud service i.e., AWS S3 as storage service and make it public with the help of bucket policies'.
+Make the websiste globally avaliable.
